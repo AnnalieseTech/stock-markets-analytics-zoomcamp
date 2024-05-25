@@ -10,4 +10,4 @@
 
 
 ## Community Notes
-[Notes on Stock Market Prediction and Model Evaluation](https://github.com/AnnalieseTech/ANALYTICS_IN_STOCK_MARKET_ZOOMCAMP/blob/main/Week_03_Modeling/Modeling_Notes.md)
+[Stock Market Prediction and Model Evaluation by AnnalieseTech](https://github.com/AnnalieseTech/ANALYTICS_IN_STOCK_MARKET_ZOOMCAMP/blob/main/Week_03_Modeling/Modeling_Notes.md)
